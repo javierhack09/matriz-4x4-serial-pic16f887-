@@ -1,0 +1,66 @@
+[PROJECT]
+Target=Keypad Clave.hex
+Processor_Text=PIC16F877A
+CCSVersion=5.025
+Compiler=PCM
+[Target Data]
+FileList=Keypad Clave.c
+[Keypad Clave.c]
+Type=4
+[mru-list]
+1=Keypad Clave.c
+
+[Opened Files]
+1=Keypad Clave.c
+2=
+3=
+
+[ProjectLog]
+Days=3
+D1=18-11-2022
+D1_L=1
+D1_L1=[76060]Project Closed.
+D2=19-11-2022
+D2_L=15
+D2_L1=[71352]Project Opened.
+D2_L2=[73094]Project Closed.
+D2_L3=[74985]Project Opened.
+D2_L4=[75185]Started Editing.
+D2_L5=[75975]Stopped Editing.
+D2_L6=[76251]Started Editing.
+D2_L7=[76552]Stopped Editing.
+D2_L8=[79015]Project Opened.
+D2_L9=[79039]Started Editing.
+D2_L10=[79475]Stopped Editing.
+D2_L11=[79515]Started Editing.
+D2_L12=[79526]Stopped Editing.
+TotalEdit=11
+TotalDebug=0
+D2_E=3
+D2_D=0
+D2_L13=[79526]Project Closed.
+D2_L14=[80049]Project Opened.
+D2_L15=[82054]Project Closed.
+D3=20-11-2022
+D3_L=16
+D3_L1=[46566]Project Opened.
+D3_L2=[46954]Project Closed.
+D3_L3=[47405]Project Opened.
+D3_L4=[47502]Started Editing.
+D3_L5=[47956]Stopped Editing.
+D3_L6=[48914]Started Editing.
+D3_L7=[49098]Stopped Editing.
+D3_E=8
+D3_D=0
+D3_L8=[49098]Project Closed.
+D3_L9=[49276]Project Opened.
+D3_L10=[49386]Project Closed.
+D3_L11=[49634]Project Opened.
+D3_L12=[70116]Started Editing.
+D3_L13=[70420]Stopped Editing.
+D3_L14=[70898]Started Editing.
+D3_L15=[71272]Stopped Editing.
+D3_L16=[79769]Project Closed.
+[Units]
+Count=1
+1=Keypad Clave (main)

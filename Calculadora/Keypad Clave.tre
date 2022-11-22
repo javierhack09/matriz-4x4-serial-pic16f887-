@@ -1,0 +1,7 @@
+ÀÄKeypad Clave
+   ÀÄMAIN  0/54  Ram=2
+      ÃÄ@cinit1  (Inline)  Ram=0
+      ÃÄkbd_init  0/3  Ram=0
+      ÀÄkbd_getc  0/105  Ram=3
+         ÃÄ@goto10574  0/8  Ram=0
+         ÀÄ@const625  0/20  Ram=0
